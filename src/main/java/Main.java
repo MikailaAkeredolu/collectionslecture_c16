@@ -16,13 +16,13 @@ public class Main {
         //Back to front
         ListIterator<Integer> listIterator = numbers.listIterator();
         while(listIterator.hasNext()){
-            //mopdiofications
+
             System.out.println(listIterator.next());
         }
 
         //reverse
         while(listIterator.hasPrevious()){
-            //mopdiofications
+
             System.out.println(listIterator.previous());
         }
 
