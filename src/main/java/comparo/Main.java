@@ -27,6 +27,7 @@ public class Main {
         //create an instance of the comparator
         NameComparator nameComparator = new NameComparator();
         Collections.sort(listOfStudents, nameComparator);
+//        listOfStudents.sort(nameComparator); - newer syntax
 
         System.out.println("====================");
 
