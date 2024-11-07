@@ -10,6 +10,7 @@
 -  checkEmptyOrBlankCharactersTest
 -  removeHandleTest()
 
+```
 public class SocialHandle  {
 
     HashSet<String> listOfHandles = new HashSet<>();
@@ -38,6 +39,5 @@ public class SocialHandle  {
         return listOfHandles;
     }
 
-
-
 }
+```
