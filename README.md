@@ -1,3 +1,5 @@
+# Twitter Internship Day 1
+
 ## Requirements
 - Limit user's character input for social media handle to 9 characters
 - if handle is 9 characters or more then use it but include an @ symbol in front of it
