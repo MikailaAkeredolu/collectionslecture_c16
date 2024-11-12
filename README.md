@@ -12,6 +12,8 @@
 -  checkEmptyOrBlankCharactersTest ***To check if social media handle is empty or blank***
 -  addHandleTest - ***To check if handle was added once despite multiple attempts***
 -  removeHandleTest() ***To check if handle was removed successfully***
+-  void checkIfNullTest() ***To check if social media handle input is null***
+   
 
 ```
 public class SocialHandle  {
